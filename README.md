@@ -60,4 +60,4 @@ This system provides a centralized dashboard that ensures visibility, transparen
 ## Clone the repository
 
 ```bash
-git clone https://github.com/your-username/asset-tracking-system.git
+git@github.com:kps-h/Asset-Tracking-System.git
